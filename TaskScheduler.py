@@ -1,3 +1,7 @@
+'''
+TC: O(n) - for iterating through the tasks to get the maxFreq and maxCount
+SC: O(1) - max elements in the dictionary can only be 26 characters
+'''
 import collections
 from typing import List
 
